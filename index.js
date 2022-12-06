@@ -4,11 +4,11 @@ import { execFile } from "child_process";
 async function Boilerplate() {
   try {
         
-    let fileData = await fs.readFile('../fastpress/main.js');
+    let fileData = await fs.readFile('../fastpresso/main.js');
 
     await fs.writeFile('index.js', fileData.toString());
 
-    await fs.rmdir('../fastpress', {recursive : true});
+    await fs.rmdir('../fastpresso', {recursive : true});
 
   } catch (error) {
     console.log(error);
