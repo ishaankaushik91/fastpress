@@ -1,0 +1,23 @@
+{
+  "name": "fastpress",
+  "version": "1.0.0",
+  "description": "Multithreaded Express boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaankaushik91/fastpress.git"
+  },
+  "keywords": [
+    "Multithreaded"
+  ],
+  "author": "Ishaan Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishaankaushik91/fastpress/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/ishaankaushik91/fastpress#readme"
+}
