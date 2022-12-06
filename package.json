@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/ishaankaushik91/fastpress/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/ishaankaushik91/fastpress#readme"
 }
